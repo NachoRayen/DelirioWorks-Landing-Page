@@ -25,6 +25,10 @@ header {
     color: white;
 }
 
+.header-logo{
+    display: flex;
+}
+
 .logo {
     height: 65px;
     padding: 5px;
